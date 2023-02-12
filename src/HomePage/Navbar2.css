@@ -1,0 +1,22 @@
+.dashboard__nav{
+    display: flex;
+    background: purple;
+    align-items: center;
+    height: 50px;
+    justify-content: space-between
+}
+.dashboard__links{
+    display: flex;
+    padding: 10px;
+}
+.dashboard__image{
+    width: 100px;
+    padding-top: 5px;
+    height: 40px;
+    padding-left: 10px
+}
+.dashboard__navlink{
+    color: white;
+    text-decoration: none;
+    margin-right: 10px;
+}

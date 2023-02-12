@@ -1,0 +1,32 @@
+.withdraw__menu{
+    
+    border: 2px solid black; 
+    width: 330px;
+    margin-bottom: 10px;
+}
+.withdraw__menu__title{
+    margin: 10px;
+    color: blue;
+}
+.content{
+    margin: 10px;
+    
+    
+}
+.withdraw__title{
+    color: blue;
+
+}
+.withdraw__label{
+    margin-bottom: 10px;
+}
+.withdraw__button{
+    margin-top: 20px;
+    margin-left: 40px;
+    background: green;
+    width: 100px;
+    height: 30px;
+    font-size: large;
+    border: 2px solid red;
+    border-radius: 10px;
+}

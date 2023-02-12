@@ -1,0 +1,26 @@
+.nav{
+    display: flex;
+    background: purple;
+    justify-content: space-between;
+    height: 50px;
+    align-items: center;
+    position: sticky;
+}
+.nav__image{
+    width: 100px;
+    height: 40px;
+   
+    padding-left: 10px;
+}
+ .nav__links{
+     display: flex;
+     justify-content: flex-end;
+     
+    
+ }
+ .nav__link{
+    margin-right: 20px;
+    color: white;
+    text-decoration: none;
+
+ }

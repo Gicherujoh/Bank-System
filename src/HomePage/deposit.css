@@ -1,0 +1,45 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+.deposit{
+    margin-top: 150px;
+    margin-left: 20%;
+
+   
+}
+.main{
+    display: inline-block;
+    margin-top: 20px;
+}
+.deposit__form{
+    margin-bottom: 10px;
+   display: flex;
+   flex-direction: column;
+}
+.deposit__input{
+    margin-top: 10px;
+    border-top: none;
+    border-left: none;
+    font-size: larger;
+    border-right: none;
+    border-bottom: 2px solid black;
+    outline-style: none;
+}
+.deposit__label{
+    font-size: larger;
+}
+.deposit__button{
+    display: flex;
+    padding: 6px;
+    padding-left:10px ;
+    width: 80px;
+    font-size: larger;
+    border-radius: 10px;
+    background: green;
+      margin: 30px;
+      
+}
+.deposit__error{
+    color: red;
+    margin-top: 8px;
+}

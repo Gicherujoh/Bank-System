@@ -1,0 +1,37 @@
+.withdraw{
+    margin-left: 5px;
+    margin-bottom: 30px;
+    width: 300px;
+    height: 120px;
+    border: 2px solid rgb(214, 11, 11);
+
+}
+.withdraw__menu{
+    margin-bottom: 30px;
+}
+.withdraw__Title{
+    margin-left: 10px;
+    margin-bottom: 30px;
+    color: red;
+    margin-top: 5px;
+}
+.withdraw__buttons{
+    display: flex;
+    justify-content: space-between;
+}
+.withdraw__button1{
+    margin-left: 15px;
+    width: 80px;
+    font-size: large;
+    color: white;
+    border-radius: 5px;
+    background: rgba(247, 4, 4);
+}
+.withdraw__button2{
+    margin-right: 15px;
+    width: 100px;
+    font-size: large;
+    color: white;
+    border-radius: 5px;
+    background: rgb(69, 3, 192);
+}

@@ -1,0 +1,20 @@
+.error__message{
+    border:2px solid blue;
+    margin-bottom: 30px;
+    height: 130px;
+    
+    transition-timing-function: ease-in;
+    width: 330px;
+}
+.error__message__title{
+    margin: 10px;
+    color:rgb(255, 0, 21)
+}
+.error__message__button{
+    width:60px;
+    background: red;
+    margin-top:10px;
+    color: white;
+    margin-left: 250px;
+    
+}

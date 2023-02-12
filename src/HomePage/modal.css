@@ -1,0 +1,28 @@
+.modal{
+    border: 2px solid black;
+    height: 180px;
+    width: 220px;
+    
+
+}
+.title{
+    color: red;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.deposit__button1{
+    margin: 40px;
+    font-size: large;
+    margin-left: 10px;
+    width: 80px;
+    color: white;
+    border-radius: 5px;
+    background: rgba(247, 4, 4);
+}
+.deposit__button2{
+    background: blue;
+    width: 80px;
+    color: white;
+    border-radius: 5px;
+    font-size: large;
+}

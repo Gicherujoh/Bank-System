@@ -1,0 +1,14 @@
+.balance{
+    margin-top: 380px;
+    margin-left: 25%;
+    margin-right: 10%;
+    max-width: 380px;
+}
+.balance__contents{
+    border: 2px solid red;
+    width: 95%;
+    height: 100px;
+}
+.balance__title{
+    margin: 15px;
+}
